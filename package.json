@@ -1,0 +1,19 @@
+{
+  "name": "angular-01-ex-v18.x.x",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "turbo dev"
+  },
+  "keywords": [],
+  "author": "Helekin",
+  "workspaces": [
+    "apps/*"
+  ],
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "turbo": "^2.0.6"
+  },
+  "packageManager": "npm@10.8.2"
+}
