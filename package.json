@@ -15,5 +15,8 @@
   "devDependencies": {
     "turbo": "^2.0.6"
   },
-  "packageManager": "npm@10.8.2"
+  "packageManager": "npm@10.8.2",
+  "dependencies": {
+    "angular-01-ex-v18.x.x": "file:"
+  }
 }
